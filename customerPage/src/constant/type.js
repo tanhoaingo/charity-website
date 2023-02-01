@@ -1,0 +1,4 @@
+export const AUTH_SUCCESS = "AUTH_SUCCESS"
+export const AUTH_FAILURE = "AUTH_FAILURE"
+export const GET_SUCCESS = "GET_SUCCESS"
+export const GET_FAILURE = "GET_FAILURE"
